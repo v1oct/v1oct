@@ -27,13 +27,12 @@
 
 ### About me
 
-<small> Hello! I am Ayush Kar - focused on building clean, scalable, and modern web applications.  
-I value structure, high performance, and long-term maintainability.</small>
+<small> Hey! Myself **Ayush Kar** - focused on building clean, scalable, and modern web applications.  
+I value structure, high performance, and long-term maintainability. </small>
 
 **Web Developer**  
-HTML5 / CSS3 / JavaScript  
-Modern UI & Clean Architecture  
-Strong GitHub Collaboration Mindset  
+<small> Node.js  |  Discord.js  
+Modern UI & Clean Architecture </small> 
 
 <!-- ANIMATED DIVIDER 3 -->
 <p align="center">
