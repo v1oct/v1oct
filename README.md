@@ -98,8 +98,9 @@ Strong GitHub Collaboration Mindset
 ### 🎵 Listening To / Music Equalizer
 
 <p align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify?summary=true">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Player" />
+  <img src="https://svg-badges.vercel.app/api/spotify" alt="Music Visualizer" />
+</p>
+
   </a>
 </p>
 
