@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Header Banner" />
+</p>
+
 <div align="center">
 
 <!-- Banner Image -->
