@@ -35,6 +35,10 @@
 
 ### | Connect with me
 <p align="center">
+  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/divider.svg" width="100%" height="2" />
+</p>
+
+<p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
