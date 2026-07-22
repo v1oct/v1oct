@@ -2,11 +2,7 @@
 <p align="center">
   <img src="./header.svg" width="100%" alt="Header Banner" />
 </p>
-
-<!-- Banner Image -->
-<img src="https://via.placeholder.com/1000x300/0d1117/ffffff?text=Welcome+to+My+GitHub" width="100%" alt="Header Banner"/>
-
-<br/>
+  
 <br/>
 
 ### 🔗 Connect with me
