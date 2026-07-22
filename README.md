@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/v1oct/v1oct/blob/d307ae3a78c42ff72bd0567c3220bdbeeecac5ab/assets/header.svg" />
 </p>
   
 <br/>
