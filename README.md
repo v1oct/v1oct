@@ -34,9 +34,6 @@
 </p>
 
 ### | Connect with me
-<p align="center">
-  <img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201200%206%22%20width%3D%22100%25%22%20height%3D%223%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%222%22%20fill%3D%22%2330363D%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%22120%22%20height%3D%222%22%20fill%3D%22%238A2BE2%22%2F%3E%3C%2Fsvg%3E" width="100%" height="3" />
-</p>
 
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
