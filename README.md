@@ -26,8 +26,9 @@
 </p>
 
 ### About me
-
-Hello! I am a Web Developer focused on building clean, scalable, and modern web applications.  
+<p align="center">
+Hello! I am Ayush Kar - 
+  focused on building clean, scalable, and modern web applications.  
 I value structure, high performance, and long-term maintainability.
 
 **Web Developer**  
