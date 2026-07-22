@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <h1>Hello, I'm v1oct👋</h1>
+  <h1>Hello, I'm v1oct</h1>
 
   <p><b>Bot Developer • Community Architect • Media Creator</b></p>
 
@@ -107,6 +107,14 @@ Modern UI & Clean Architecture </small>
 #### • Streak :
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=v1oct&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
+</p>
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <a href="https://github.com/v1oct">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
 </p>
 
 <!-- ANIMATED DIVIDER 6 -->
