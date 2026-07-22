@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
 
-### 🔗 Connect with me
+### | Connect with me
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
 
-### About me
+### | About me
 
 <small> Hey! Myself **Ayush Kar** - focused on building clean, scalable, and modern web applications.  
 I value structure, high performance, and long-term maintainability. </small>
@@ -39,7 +39,7 @@ Modern UI & Clean Architecture </small>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
 
-### Technologies
+### | Technologies
 
 #### • Core :
 <p align="center">
@@ -50,7 +50,7 @@ Modern UI & Clean Architecture </small>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-#### [PLACEHOLDER]
+#### • [PLACEHOLDER]
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" />
@@ -77,7 +77,7 @@ Modern UI & Clean Architecture </small>
 
 ### Statistics
 
-#### • Your Stats Overview
+#### • Overview
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v1oct&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
   <img src="https://github-readme-stats.shion.dev/api?username=v1oct&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
