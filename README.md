@@ -34,9 +34,11 @@
 </p>
 
 ### | Connect with me
+<!-- Centered Header Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k33ptoo/k33ptoo/main/assets/line.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
+
 
 
 <p align="center">
