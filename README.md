@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER GIF (Replace the src URL with your GIF link) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3poOHRneGV2MHowN20za2YxZmtucnBhNWFxeTl2dzEyb2JvaHRlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvjDDy267/giphy.gif" width="100%" alt="Header Banner GIF" />
+  <img src="https://cdn.pfps.gg/banners/4171-black-and-white-aesthetic.png" width="100%" alt="Header Banner GIF" />
 </p>
 
 <br/>
