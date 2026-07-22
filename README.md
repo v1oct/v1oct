@@ -85,6 +85,14 @@ Modern UI & Clean Architecture </small>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
 
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <a href="https://github.com/v1oct">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
+</p>
+
 ### • Contributions :
 
 <p align="center">
@@ -107,14 +115,6 @@ Modern UI & Clean Architecture </small>
 #### • Streak :
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=v1oct&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
-</p>
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <a href="https://github.com/v1oct">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  </a>
 </p>
 
 <!-- ANIMATED DIVIDER 6 -->
