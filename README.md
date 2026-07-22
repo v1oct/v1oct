@@ -44,13 +44,11 @@ Strong GitHub Collaboration Mindset
 
 #### Core Technologies
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" height="42" alt="JS" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="42" height="42" alt="WordPress" />
+  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/WORDPRESS-181717?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
