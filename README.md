@@ -41,7 +41,7 @@ Modern UI & Clean Architecture </small>
 
 ### Technologies
 
-#### Core Technologies
+#### • Core :
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,6 +50,7 @@ Modern UI & Clean Architecture </small>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+#### [PLACEHOLDER]
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" />
@@ -63,7 +64,7 @@ Modern UI & Clean Architecture </small>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
 
-### 🐍 Contribution Snake Animation
+### • Contributions :
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -76,13 +77,13 @@ Modern UI & Clean Architecture </small>
 
 ### Statistics
 
-#### Your Stats Overview
+#### • Your Stats Overview
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v1oct&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
   <img src="https://github-readme-stats.shion.dev/api?username=v1oct&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
 </p>
 
-#### 🔥 Contribution Streak
+#### • Streak :
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=v1oct&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
 </p>
@@ -92,7 +93,7 @@ Modern UI & Clean Architecture </small>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
 
-### 🎵 Listening To / Music Equalizer
+### • Hobby :
 
 <p align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31w2pnxivwnnyyznsezbd6ahy5ay">
