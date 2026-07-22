@@ -25,12 +25,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
 </p>
 
-### | About me
+### | About Me
 
 <small> Hey! Myself **Ayush Kar** - focused on building clean, scalable, and modern web applications.  
 I value structure, high performance, and long-term maintainability. </small>
 
-**Web Developer**  
+### < Bot Developer >  
 <small> Node.js  |  Discord.js  
 Modern UI & Clean Architecture </small> 
 
