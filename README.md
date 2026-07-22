@@ -15,9 +15,9 @@
 ### 🔗 Connect with me
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/v1oct"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- ANIMATED DIVIDER 2 -->
@@ -70,9 +70,9 @@ Strong GitHub Collaboration Mindset
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
@@ -85,13 +85,13 @@ Strong GitHub Collaboration Mindset
 
 #### Your Stats Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1oct&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v1oct&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
 </p>
 
 #### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1oct&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
 </p>
 
 <!-- ANIMATED DIVIDER 6 -->
