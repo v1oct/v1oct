@@ -1,144 +1,113 @@
 <div align="center">
 
-<!-- HEADER BANNER GIF (Replace the src URL with your GIF link) -->
-<p align="center">
-  <img src="https://cdn.pfps.gg/banners/4171-black-and-white-aesthetic.png" width="100%" alt="Header Banner GIF" />
-</p>
-
-<br/>
-
-<div align="center">
-
-  <h1>Hello, I'm v1oct</h1>
+  <h1>Hello, I'm v1oct👋</h1>
 
   <p><b>Bot Developer • Community Architect • Media Creator</b></p>
 
-  <!-- "Building ideas" in the exact purple color -->
+  <!-- "Building ideas" Subtitle -->
   <p align="center">
-    $\color{#8A2BE2}{\text{\textit{Building ideas}}}$
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&lines=Building+ideas" alt="Building Ideas" />
   </p>
 
 </div>
 
 <br/>
 
-<!-- TOP DIVIDER -->
+<hr />
+
+<br/>
+
+### 🟪 About me
+
+I am a **Bot Developer** and **Community Architect** specialized in creating custom, high-performance automated tools across **Discord** and **Telegram**.
+
+I work from **bot architecture to community management**, prioritizing **clean code, real-time broadcasting, and user engagement**.
+
+* ⚽ **Featured Service — NexPlay:** A live sports broadcasting bot built for Discord (expanding to Telegram).
+* 🛡️ **Community Architect:** Specialized in setting up, structuring, and moderating active Discord communities.
+* 🎬 **Media Production:** Sound designer and video editor focused on AMVs and creative audio/video production.
+
+<br/>
+
+<hr />
+
+<br/>
+
+### 🟪 Tech Stack
+
+#### ◆ Bot Engineering & Languages
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
+  <img src="https://img.shields.io/badge/DISCORD.JS-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/TELEGRAM_API-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
 </p>
 
-
-<!-- ANIMATED DIVIDER 1 -->
+#### ◆ Creative & Media
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
+  <img src="https://img.shields.io/badge/AUDIO_EDITING-0D1117?style=for-the-badge&logo=audacity&logoColor=EE0000" />
+  <img src="https://img.shields.io/badge/VIDEO_EDITING-0D1117?style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF" />
 </p>
 
-### | Connect with me
+<br/>
+
+<hr />
+
+<br/>
+
+### ✍️ Quote
 
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/v1oct"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<!-- ANIMATED DIVIDER 2 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
-</p>
-
-### | About Me
-
-<small> Hey! Myself **Ayush Kar** - focused on building clean, scalable, and modern web applications.  
-I value structure, high performance, and long-term maintainability. </small>
-
-### < Bot Developer >
-
-<small> Node.js  |  Discord.js  
-Modern UI & Clean Architecture </small> 
-
-<!-- ANIMATED DIVIDER 3 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
-</p>
-
-### | Technologies
-
-#### • Core :
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/divider.svg" width="100%" height="2" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/WORDPRESS-181717?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-#### • [PLACEHOLDER]
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/WORDPRESS-181717?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<!-- ANIMATED DIVIDER 4 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
-</p>
-
-### " "
-
-<p align="center">
-  <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you+pleased+me+with+your+body%2C+i+should+pay+you+for+that.%22;—+a+wise+man" alt="Custom Dev Quote" />
-  </a>
 </p>
 
-### • Contributions :
+<br/>
+
+<hr />
+
+<br/>
+
+### 🐍 Contribution Snake Animation
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-<!-- ANIMATED DIVIDER 5 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
-</p>
+<br/>
 
-### Statistics
+<hr />
 
-#### • Overview
+<br/>
+
+### 📊 Statistics
+
+#### Your Stats Overview
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v1oct&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
   <img src="https://github-readme-stats.shion.dev/api?username=v1oct&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
 </p>
 
-#### • Streak :
-
+#### 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=v1oct&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
 </p>
 
-<!-- ANIMATED DIVIDER 6 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a47f-11eb-992d-d371e50373a8.gif" width="100%" />
-</p>
+<br/>
 
-### • Hobby :
+<hr />
+
+<br/>
+
+### 🟪 Contacts
 
 <p align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31w2pnxivwnnyyznsezbd6ahy5ay">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31w2pnxivwnnyyznsezbd6ahy5ay" alt="Data Card for Spotify">
-</a>
-  </a>
+  <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/v1oct"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <br/>
+
+<hr />
 
 </div>
