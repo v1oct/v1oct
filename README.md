@@ -95,8 +95,9 @@ Modern UI & Clean Architecture </small>
 ### " "
 
 <p align="center">
-  <a href="https://github.com/v1oct">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you+pleased+me+with+your+body%2C+i+should+pay+you+for+that.%22;—+a+wise+man" alt="Custom Dev Quote" />
+</p>
   </a>
 </p>
 
