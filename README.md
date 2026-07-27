@@ -58,15 +58,8 @@ I work from **bot architecture to community management**, prioritizing **clean c
 ### ✍️ Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you+pleased+me+with+your+body%2C+i+should+pay+you+for+that.%22;—+a+wise+man" alt="Custom Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you%20pleased%20me%20with%20your%20body%2C%20i%20should%20pay%20you%20for%20that.%22;%E2%80%94%20a%20wise%20man" alt="Custom Quote" />
 </p>
-
-<br/>
-
-<hr />
-
-<br/>
-
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
