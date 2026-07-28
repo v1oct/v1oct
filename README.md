@@ -125,7 +125,7 @@
 
 <p align="center">
   <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://discord.com/v1oct"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/1184507881614225469"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/v1oct?igsh=M2owNGF5Z3JhaGxq"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
