@@ -88,7 +88,7 @@
 <p align="center">
   <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31w2pnxivwnnyyznsezbd6ahy5ay" alt="Data Card for Spotify">
-  </a>" alt="Spotify Widget" />
+  </a>" peace.
   </a>
 </p>
 
