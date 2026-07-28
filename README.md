@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="YOUR_PFP_IMAGE_URL_HERE" width="160" style="border-radius: 50%;" alt="Profile Picture" />
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*uqKapKinwX2-JHpSf8Xu6Q@2x.jpeg" width="160" style="border-radius: 50%;" alt="Profile Picture" />
     </td>
   </tr>
 </table>
