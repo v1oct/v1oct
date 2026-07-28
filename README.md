@@ -49,7 +49,6 @@
 
 <br/>
 
-### 🟪 Tech Stack
 
 #### ◆ Bot Engineering & Languages
 <p align="center">
@@ -71,7 +70,6 @@
 
 <br/>
 
-### ✍️ Quote
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you%20pleased%20me%20with%20your%20body%2C%20i%20should%20pay%20you%20for%20that.%22;%E2%80%94%20a%20wise%20man" alt="Custom Quote" />
@@ -83,7 +81,6 @@
 
 <br/>
 
-### 🎵 Spotify Playing
 
 <p align="center">
   <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
@@ -98,7 +95,6 @@
 
 <br/>
 
-### 🐍 Contribution Snake Animation
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -110,15 +106,12 @@
 
 <br/>
 
-### 📊 Statistics
 
-#### Your Stats Overview
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v1oct&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
   <img src="https://github-readme-stats.shion.dev/api?username=v1oct&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
 </p>
 
-#### 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=v1oct&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="Streak Stats" />
 </p>
@@ -129,7 +122,6 @@
 
 <br/>
 
-### 🟪 Contacts
 
 <p align="center">
   <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
