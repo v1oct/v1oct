@@ -1,3 +1,10 @@
+<!-- BANNER -->
+<p align="center">
+  <a href="YOUR_BANNER_LINK_HERE">
+    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Header Banner" width="100%" />
+  </a>
+</p>
+
 <div align="center">
 
   <h1>Hello, I'm v1oct👋</h1>
@@ -17,15 +24,24 @@
 
 <br/>
 
-### 🟪 About me
-
-I am a **Bot Developer** and **Community Architect** specialized in creating custom, high-performance automated tools across **Discord** and **Telegram**.
-
-I work from **bot architecture to community management**, prioritizing **clean code, real-time broadcasting, and user engagement**.
-
-* ⚽ **Featured Service — NexPlay:** A live sports broadcasting bot built for Discord (expanding to Telegram).
-* 🛡️ **Community Architect:** Specialized in setting up, structuring, and moderating active Discord communities.
-* 🎬 **Media Production:** Sound designer and video editor focused on AMVs and creative audio/video production.
+<!-- ABOUT ME WITH RIGHT-ALIGNED PFP -->
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h3>🟪 About me</h3>
+      <p>I am a <b>Bot Developer</b> and <b>Community Architect</b> specialized in creating custom, high-performance automated tools across <b>Discord</b> and <b>Telegram</b>.</p>
+      <p>I work from <b>bot architecture to community management</b>, prioritizing <b>clean code, real-time broadcasting, and user engagement</b>.</p>
+      <ul>
+        <li>⚽ <b>Featured Service — NexPlay:</b> A live sports broadcasting bot built for Discord (expanding to Telegram).</li>
+        <li>🛡️ <b>Community Architect:</b> Specialized in setting up, structuring, and moderating active Discord communities.</li>
+        <li>🎬 <b>Media Production:</b> Sound designer and video editor focused on AMVs and creative audio/video production.</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <img src="YOUR_PFP_IMAGE_URL_HERE" width="160" style="border-radius: 50%;" alt="Profile Picture" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -60,6 +76,27 @@ I work from **bot architecture to community management**, prioritizing **clean c
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you%20pleased%20me%20with%20your%20body%2C%20i%20should%20pay%20you%20for%20that.%22;%E2%80%94%20a%20wise%20man" alt="Custom Quote" />
 </p>
+
+<br/>
+
+<hr />
+
+<br/>
+
+### 🎵 Spotify Playing
+
+<p align="center">
+  <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify-compiler?type=large&theme=dark" alt="Spotify Widget" />
+  </a>
+</p>
+
+<br/>
+
+<hr />
+
+<br/>
+
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
@@ -102,5 +139,3 @@ I work from **bot architecture to community management**, prioritizing **clean c
 <br/>
 
 <hr />
-
-</div>
