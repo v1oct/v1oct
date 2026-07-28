@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <p align="center">
-  <a href="YOUR_BANNER_LINK_HERE">
-    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Header Banner" width="100%" />
+  <a href="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg1b8f7ef7c9e41fc1183339b2a9180c65377">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg" alt="Header Banner" width="100%" />
   </a>
 </p>
 
