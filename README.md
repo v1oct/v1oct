@@ -1,14 +1,14 @@
 <!-- BANNER -->
 <p align="center">
-  <a href="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg1b8f7ef7c9e41fc1183339b2a9180c65377">
+  <a href="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg">
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*imTjsrehsRw_7YLwpFPJ6Q.jpeg" alt="Header Banner" width="100%" />
   </a>
 </p>
 
-<!-- DISCORD PRESENCE BANNER (REPLACES HELLO HEADER) -->
+<!-- DISCORD PRESENCE BANNER -->
 <p align="center">
   <a href="https://discord.com/users/1184507881614225469">
-    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Presence" width="100%" />
+    <img src="https://lanyard.profile.novathesir.me/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0D1117" alt="Discord Presence" width="100%" />
   </a>
 </p>
 
@@ -43,7 +43,6 @@
 
 <br/>
 
-
 #### ◆ Bot Engineering & Languages
 <p align="center">
   <img src="https://img.shields.io/badge/DISCORD.JS-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
@@ -64,7 +63,6 @@
 
 <br/>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&height=50&lines=%22you%20pleased%20me%20with%20your%20body%2C%20i%20should%20pay%20you%20for%20that.%22;%E2%80%94%20a%20wise%20man" alt="Custom Quote" />
 </p>
@@ -75,11 +73,9 @@
 
 <br/>
 
-
 <p align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31w2pnxivwnnyyznsezbd6ahy5ay" alt="Data Card for Spotify">
-  </a>" peace.
+  <a href="https://open.spotify.com">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31w2pnxivwnnyyznsezbd6ahy5ay" alt="Data Card for Spotify">
   </a>
 </p>
 
@@ -88,7 +84,6 @@
 <hr />
 
 <br/>
-
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1oct/v1oct/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -99,7 +94,6 @@
 <hr />
 
 <br/>
-
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=v1oct&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" height="165" />
@@ -115,7 +109,6 @@
 <hr />
 
 <br/>
-
 
 <p align="center">
   <a href="https://t.me/v1oct"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
