@@ -22,6 +22,28 @@
 <table>
   <tr>
     <td valign="top" width="70%">
+      <br/>
+
+<p align="center">
+  <!-- Staff Icon -->
+  <img src="https://api.iconify.design/lucide:wrench.svg?color=%235865f2" width="22" height="22" title="Staff" />
+  &nbsp;&nbsp;
+  <!-- Verified Icon -->
+  <img src="https://api.iconify.design/material-symbols:verified-rounded.svg?color=%2300a2ff" width="24" height="24" title="Verified" />
+  &nbsp;&nbsp;
+  <!-- Donor Icon -->
+  <img src="https://api.iconify.design/ph:currency-dollar-simple-bold.svg?color=%2300ff66" width="24" height="24" title="Donor" />
+  &nbsp;&nbsp;
+  <!-- Premium Icon -->
+  <img src="https://api.iconify.design/ph:sparkle-fill.svg?color=%239900ff" width="24" height="24" title="Premium" />
+  &nbsp;&nbsp;
+  <!-- OG Icon -->
+  <img src="https://api.iconify.design/ph:star-fill.svg?color=%23ffd700" width="24" height="24" title="OG Supporter" />
+</p>
+
+<br/>
+
+<hr />
       <h3>🟪 About me</h3>
       <p>I am a <b>Bot Developer</b> and <b>Community Architect</b> specialized in creating custom, high-performance automated tools across <b>Discord</b> and <b>Telegram</b>.</p>
       <p>I work from <b>bot architecture to community management</b>, prioritizing <b>clean code, real-time broadcasting, and user engagement</b>.</p>
