@@ -5,18 +5,12 @@
   </a>
 </p>
 
-<div align="center">
-
-  <h1>Hello, I'm v1oct👋</h1>
-
-  <p><b>Bot Developer • Community Architect • Media Creator</b></p>
-
-  <!-- "Building ideas" Subtitle -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&lines=Building+ideas" alt="Building Ideas" />
-  </p>
-
-</div>
+<!-- DISCORD PRESENCE BANNER (REPLACES HELLO HEADER) -->
+<p align="center">
+  <a href="https://discord.com/users/1184507881614225469">
+    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Presence" width="100%" />
+  </a>
+</p>
 
 <br/>
 
