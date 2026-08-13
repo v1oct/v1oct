@@ -82,6 +82,40 @@
 
 <br/>
 
+<p align="right">
+  <!-- Staff (Wrench) -->
+  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="https://api.iconify.design/lucide:wrench.svg?color=%235865f2" width="28" height="28" alt="Staff" />
+  </span>
+  <!-- Helper (Lightbulb) -->
+  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23ffaa00" width="28" height="28" alt="Helper" />
+  </span>
+  <!-- Premium (Gem) -->
+  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="https://api.iconify.design/lucide:gem.svg?color=%239900ff" width="28" height="28" alt="Premium" />
+  </span>
+  <!-- Verified (Check Circle) -->
+  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="https://api.iconify.design/material-symbols:verified-rounded.svg?color=%2300a2ff" width="28" height="28" alt="Verified" />
+  </span>
+  <!-- Donor (Dollar) -->
+  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="https://api.iconify.design/ph:currency-dollar-simple-bold.svg?color=%2300ff66" width="28" height="28" alt="Donor" />
+  </span>
+  <!-- OG (Gold Crown) -->
+  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="https://api.iconify.design/ph:crown-fill.svg?color=%23ffd700" width="28" height="28" alt="OG" />
+  </span>
+  <!-- Server Booster (Flame) -->
+  <span style="display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="https://api.iconify.design/lucide:flame.svg?color=%23ff4500" width="28" height="28" alt="Server Booster" />
+  </span>
+</p>
+
+<br/>
+
+<hr />
 
 #### ◆ Bot Engineering & Languages
 <p align="center">
